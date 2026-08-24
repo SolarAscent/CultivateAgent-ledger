@@ -1,0 +1,7 @@
+{
+  "txn_id": "TXN-20260824T104341Z-bfb8d0039a19",
+  "mode": "ingest",
+  "record_sha256": "f719846739958e5190c71532f2df1f90017862f8a8419cb3251f86fd7cd60a27",
+  "events_sha256": "7c286fa1eed28f4df936370380db836bfa008fd4e17743dda4dbb15c79afb612",
+  "ledger_written_at": "2026-08-24T10:43:41Z"
+}
